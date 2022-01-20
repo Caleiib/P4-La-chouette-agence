@@ -305,6 +305,7 @@ a:hover {
     max-height: 200px;
     margin: 0 5px 0 0;
     display: inline;
+    width: 100%;
 }
 
 .navbar-brand img[src$=svg] {
@@ -677,6 +678,7 @@ a {
 
 p {
     font-size: 1.3rem;
+    margin-top: 2rem;
 }
 
 .tight-width-whitespace {
@@ -776,6 +778,7 @@ h4 {
 
 .bgc-atomic-tangerine {
     background-color: #F3976C;
+    padding-bottom: 5.55rem;
 }
 
 .tc-white {
